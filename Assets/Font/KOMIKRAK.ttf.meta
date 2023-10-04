@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e40e93a84dd09b54b806b3b4cf43672c
+timeCreated: 1506417183
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Komika Krak
+  fontNames:
+  - Komika Krak
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
